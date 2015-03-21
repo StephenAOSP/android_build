@@ -47,7 +47,7 @@ PRODUCT_PACKAGES += \
     libpac \
     PrintSpooler \
     ProxyHandler \
-    QuickSearchBox \
+    #QuickSearchBox \
     Settings \
     SharedStorageBackup \
     Telecom \
